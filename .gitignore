@@ -1,0 +1,16 @@
+target/
+/logs/
+*.log
+*.log*
+/*.war
+target/
+out/
+build
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+.idea/

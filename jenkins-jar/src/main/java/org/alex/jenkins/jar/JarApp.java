@@ -6,5 +6,6 @@ public class JarApp {
         System.out.println("Update one, test for hook trigger");
         System.out.println("Update two, test for hook trigger");
         System.out.println("Update three, test for hook trigger");
+        System.out.println("Update four, test for hook trigger");
     }
 }
